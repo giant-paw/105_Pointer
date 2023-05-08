@@ -11,7 +11,7 @@ class mahasiswa {
 
 int main()
 {
-    mahasiswa mhs{ 1 };         //objech mhs
+    mahasiswa mhs{ 1 };         //object mhs
     mhs.showNim();              //Member Acces Operator
 
     mahasiswa &refMhs = mhs;    //Pointer Reference refMhs
