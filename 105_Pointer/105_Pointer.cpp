@@ -11,5 +11,5 @@ class mahasiswa {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    mahasiswa mhs{ 1 };         //objech mhs
 }
